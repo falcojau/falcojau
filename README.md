@@ -1,8 +1,9 @@
 # 👋 Hola, soy Jaume Falcó
+![Banner](https://github.com/user-attachments/assets/e2190259-728f-4e52-92b9-d7e1531e1bac)
+📍 Barcelona, España
 
-📍 Barcelona, España  
+🎓 Estudiante de **Desarrollador Full Stack** en [ConquerBlocks](https://conquerblocks.com/)
 
-🎓 Actualmente soy estudiante de **Desarrollador Full Stack** en [ConquerBlocks](https://conquerblocks.com/).
 🏨​ En paralelo, trabajo como Concierge en un hotel de lujo, pero desde pequeño, mi pasión siempre fue la informática!
 
 ---
