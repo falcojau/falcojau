@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mí
 - 🔧 Ya manejo **Python**, la **terminal** y **Git**.  
-- 📚 Ahora comienzo con **Backend**: SQL, Streamlit y Django.  
+- 📚 También domino las herramientas de **Backend**: SQL, Streamlit y Django.  
 - 🎨 Después me adentraré en el **Frontend**: HTML, CSS y JavaScript.  
 - 🌱 Siempre con ganas de aprender, mejorar y compartir lo que voy descubriendo.  
 
