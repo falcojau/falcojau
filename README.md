@@ -10,9 +10,11 @@ I’m focused on becoming a strong full-stack developer with solid programming f
 
 Right now, I’m building a strong foundation in:
 
+- Python
+- Django
+- HTML
+- CSS
 - JavaScript
-- HTML5
-- CSS3
 - Git & GitHub
 - Responsive Web Design
 - Programming Logic
@@ -29,19 +31,16 @@ I strongly believe that understanding the fundamentals is more important than bl
 - CSS3
 - JavaScript
 
+### Backend
+- Python
+- Django
+
 ### Tools
 - Git
 - GitHub
 - VS Code
 - Claude Code
 - OpenCode
-
-### Currently Learning
-- JavaScript Deep Dive
-- Asynchronous Programming
-- APIs & HTTP Requests
-- DOM Manipulation
-- Debugging & Problem Solving
 
 ---
 
@@ -119,5 +118,3 @@ Learn deeply.
 Build consistently.  
 Adapt fast.  
 Avoid mediocrity.
-
----
