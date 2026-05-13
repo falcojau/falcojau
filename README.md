@@ -1,38 +1,123 @@
-# 👋 Hola, soy Jaume Falcó
-![Banner](https://github.com/user-attachments/assets/64f28b6d-6184-421a-87f7-431d5000cde6)
+# Hi, I'm Jaume 👋
 
-📍 Barcelona, España
+Aspiring Software Developer based in Barcelona, currently transitioning into tech after years working in luxury hospitality and guest relations.
 
-🎓 Estudiante de **Desarrollador Full Stack** en [ConquerBlocks](https://conquerblocks.com/)
-
-🏨​ En paralelo, trabajo como Concierge en un hotel de lujo, pero desde pequeño, mi pasión siempre fue la informática!
+I’m focused on becoming a strong full-stack developer with solid programming fundamentals while adapting to the new AI-driven software era.
 
 ---
 
-## 🚀 Sobre mí
-- 🔧 Ya manejo **Python**, la **terminal** y **Git**.  
-- 📚 También domino las herramientas de **Backend**: SQL, Streamlit y Django.  
-- 🎨 Después me adentraré en el **Frontend**: HTML, CSS y JavaScript.  
-- 🌱 Siempre con ganas de aprender, mejorar y compartir lo que voy descubriendo.  
+## 🚀 Current Focus
+
+Right now, I’m building a strong foundation in:
+
+- JavaScript
+- HTML5
+- CSS3
+- Git & GitHub
+- Responsive Web Design
+- Programming Logic
+- Frontend & Backend Fundamentals
+
+I strongly believe that understanding the fundamentals is more important than blindly relying on AI tools.
 
 ---
 
-## 🛠️ Tecnologías en mi camino
-- **Lenguajes:** Python, HTML, CSS, JavaScript (en proceso)  
-- **Frameworks:** Django, Streamlit (aprendiendo)  
-- **Herramientas:** Git, GitHub, Terminal, VSCode  
-- **Bases de datos:** SQL  
+## 🧠 Technologies & Tools I Use
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Claude Code
+- OpenCode
+
+### Currently Learning
+- JavaScript Deep Dive
+- Asynchronous Programming
+- APIs & HTTP Requests
+- DOM Manipulation
+- Debugging & Problem Solving
 
 ---
 
-## ✨ Un poco más
-- Me gusta aprender de forma práctica y llevar los proyectos a la realidad.  
-- Sueño con crecer como **Full Stack Developer** y aportar valor con cada línea de código.  
-- También me encantaría adentrarme en el ecosistema y aprender sobre la tecnología **Blockchain**
+## 📚 Next Technologies I Will Learn
+
+In this order:
+
+1. TypeScript
+2. ReactJS
+3. Node.js
+
+After mastering modern web development, I’ll move deeper into:
+
+- SEO & Web Performance
+- Full-Stack Architecture
+- AI Engineering & Automation
 
 ---
 
-### 📫 Conéctemos:
+## 🤖 Future AI Specialization
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/falcojau)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaume-falc%C3%B3-80a296114/) 
+Once I have strong web development foundations, I’ll specialize in Artificial Intelligence and AI-powered systems.
+
+My future roadmap includes:
+
+### AI & Automation
+- AI Automations
+- AI Agents
+- Prompt Engineering
+- OpenAI API
+- Hugging Face
+
+### Frameworks
+- FastAPI (Python)
+- LangChain
+- LangGraph
+
+### Infrastructure & Deployment
+- Vercel (Frontend)
+- Supabase (Auth & Vector Database)
+- Docker
+
+---
+
+## 🎯 Long-Term Goal
+
+My goal is not just to write code.
+
+I want to become a developer capable of:
+- Building real products
+- Understanding systems deeply
+- Using AI effectively without depending on it blindly
+- Combining software engineering with modern AI workflows
+
+---
+
+## 🌍 Background
+
+Before tech, I worked in luxury hospitality, guest relations, tourism, and international environments.
+
+That experience taught me:
+- Communication
+- Problem-solving
+- Adaptability
+- Working under pressure
+- Understanding people and user experience
+
+Now I’m applying that mindset to software development.
+
+---
+
+## 📈 Current Mission
+
+Learn deeply.  
+Build consistently.  
+Adapt fast.  
+Avoid mediocrity.
+
+---
