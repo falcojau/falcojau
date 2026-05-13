@@ -10,13 +10,9 @@ I’m focused on becoming a strong full-stack developer with solid programming f
 
 Right now, I’m building a strong foundation in:
 
-- Python
-- Django
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- Responsive Web Design
+- TypeScript
+- ReactJS
+- Node.js
 - Programming Logic
 - Frontend & Backend Fundamentals
 
@@ -46,17 +42,11 @@ I strongly believe that understanding the fundamentals is more important than bl
 
 ## 📚 Next Technologies I Will Learn
 
-In this order:
-
-1. TypeScript
-2. ReactJS
-3. Node.js
-
 After mastering modern web development, I’ll move deeper into:
 
-- SEO & Web Performance
-- Full-Stack Architecture
-- AI Engineering & Automation
+1. SEO & Web Performance
+2. Full-Stack Architecture
+3. AI Engineering & Automation
 
 ---
 
