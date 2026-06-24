@@ -1,6 +1,6 @@
 # Hi, I'm Jaume 👋
 
-Aspiring Software Developer based in Barcelona, currently transitioning into tech after years working in luxury hospitality and guest relations.
+Aspiring AI Engineer based in Barcelona, currently transitioning into tech after years working in luxury hospitality and guest relations.
 
 I’m focused on becoming a strong full-stack developer with solid programming fundamentals while adapting to the new AI-driven software era.
 
@@ -10,11 +10,10 @@ I’m focused on becoming a strong full-stack developer with solid programming f
 
 Right now, I’m building a strong foundation in:
 
-- TypeScript
-- ReactJS
-- Node.js
-- Programming Logic
-- Frontend & Backend Fundamentals
+- RAG
+- Embeddings
+- Vector Databases
+- Agent Frameworkds (LangGraph & CrewAI)
 
 I strongly believe that understanding the fundamentals is more important than blindly relying on AI tools.
 
@@ -26,17 +25,26 @@ I strongly believe that understanding the fundamentals is more important than bl
 - HTML5
 - CSS3
 - JavaScript
+- TypeScript
+- ReactJS
 
 ### Backend
 - Python
+- FastAPI
 - Django
 
 ### Tools
 - Git
 - GitHub
+- Docker
 - VS Code
 - Claude Code
 - OpenCode
+
+### AI & Automation
+- AI Automations
+- AI Agents
+- OpenAI & Anthropic APIs
 
 ---
 
@@ -44,9 +52,10 @@ I strongly believe that understanding the fundamentals is more important than bl
 
 After mastering modern web development, I’ll move deeper into:
 
-1. SEO & Web Performance
-2. Full-Stack Architecture
-3. AI Engineering & Automation
+1. AI Engineering & Automation
+2. RAG Architecture
+3. Autonomous Agents
+4. Hugging Face Ecosystem and Efficient Fine-Tuning
 
 ---
 
@@ -57,21 +66,16 @@ Once I have strong web development foundations, I’ll specialize in Artificial 
 My future roadmap includes:
 
 ### AI & Automation
-- AI Automations
-- AI Agents
 - Prompt Engineering
-- OpenAI API
+- Fine-Tuning
 - Hugging Face
 
 ### Frameworks
-- FastAPI (Python)
 - LangChain
 - LangGraph
 
 ### Infrastructure & Deployment
-- Vercel (Frontend)
 - Supabase (Auth & Vector Database)
-- Docker
 
 ---
 
